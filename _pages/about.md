@@ -1,49 +1,67 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jingmin Huang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Microeconomic Theory and Applications
+specialized in Theory of Industrial Organisation, Game Theory and Information Economics, Mechanism/Information Design
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Working Papers
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1.[Price Discrimination with Estimation Errors](https://www.dropbox.com/scl/fi/ns7cwms034mmjhbqd2yrn/1.pdf?rlkey=iyczof10p0ku5ygm9g956pqix&st=rt6wo2p5&dl=0); [Slides](https://www.dropbox.com/scl/fi/nnhwaswib2enfe6q9a24n/Slides_CMGTA2023_Huang-Jingmin.pdf?rlkey=tcwbw4wu03hw33hnvjpb5ex0c&st=mcfhnklh&dl=0);
+2.[Selling Training Data](https://www.dropbox.com/scl/fi/hxoea41qx5ogh7xziesbv/Selling_Training_Data.pdf?rlkey=h6bz7tzezitq586nwkevk6r3o&st=uhgysmcw&dl=0); [Slides](https://www.dropbox.com/scl/fi/8elbq16qpvz9zo493t60q/Selling_Training_Data-1.pdf?rlkey=6klwa9gxm54tz1f0z0ojs89sz&st=wstyu2g0&dl=0);
+3.[Monitoring Allocation](https://www.dropbox.com/scl/fi/qmkfnymh53jf17rkj431t/Monitoring-Allocation-proposition-1.pdf?rlkey=lxo5x577tzz84awqdoxjwod1s&st=bxbhgsce&dl=0); [Slides](https://www.dropbox.com/scl/fi/n8jcc06uindeux0sgrp88/Monitoring_Allocation__Slide_4.pdf?rlkey=byujyqhdi963v6nccy3xo208y&st=sfj239u0&dl=0);
+4.[Enforceability v.s. Flexibility: Incomplete Contract with Litigation Cost](https://www.dropbox.com/scl/fi/1wtkjtw5dsi8zjnjtrfwp/Smart_Contract_v_2-2.pdf?rlkey=gw2xu4pb9iglyynvmfhdhwp45&st=urzaccg7&dl=0); [Slides](https://www.dropbox.com/scl/fi/c5ripd57cz260i80nm2sg/Enforceability_versus_Flexibility-2.pdf?rlkey=pa35bjn4llgzr9lpoae3e29mx&st=122oiddl&dl=0);
 
-Site-wide configuration
+Education
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+2023-     Econimics, School of Economics, Renmin University of China, Beijing, China
+          Advisor: Sanxi Li
+2020-2023 Applied Economics, School of Economics and Business Administration, Chongqing University, Chongqin, China
+          Advisor: Rong Zhang; Description: No.1 academic performance kept for 3 years; National Scholarship
+2019-2021 Finance, Adult Self-taught, Southwestern University of Finance and Economics, Sichuan, China
+          Description: Finished 13 course examinations including Management and Accounting; Bachelor's degree in economics
+2014-2018 Mathematics, Department of Mathematical Science, Tsinghua University, Beijing, China
+          Description: Tsinghua Academy Talent Training Program Scholarship; Excellent Lecturer at Learning Development Center
+2011-2014 Mian Yang High School, Sichuan, China
+          Description: No.1 in Sichuan (National Mathematical Olympiad in Senior); Silver medalist (CMO)
 
-Create content & metadata
+Honors and Awards
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+2023 CMGTA'2023 Outstanding Youth Paper Award (Acedemic Conference)
+2022 The National third prize of National English Competition for College Students (NECCS) Class A
+2022 Outstanding graduate of Chongqing University
+2022 Advanced Individual of Innovation Ability Improvement of Chongqing Colleges and Universities
+2021 "Advanced Individual of Scientific and Technological Academic Innovation" of Chongqing University
+2021 National Scholarship
+2020-2022 Class A scholarship of Chongqing University
+2021 Outstanding Cadre of the Communist Youth League of Chongqing University
+2021 First prize of FLTR-Guocai Cup National English Speaking Contest of Chongqing University
+2021 Third prize of FLTR-Guocai Cup National English Reading Contest of Chongqing University
+2021 Outstanding individual award in the preliminary round of "Huawei Cup" Financial Elite Competition in Sichuan/Chongqing 
+2021 The National second prize of "Huawei Cup" National Postgraduate Mathematical Modeling Competition
+2020 The National second prize of "Huawei Cup" National Postgraduate Mathematical Modeling Competition
+2020 First prize of the 2nd Information Literacy Competition of Chongqing University
+2020 First prize of the first Chengdu-Chongqing University Information Literacy League
+2017 Advanced individual of Capital University Red Cross system
+2015 Excellent volunteer and lecturer of Learning Development Center of Tsinghua University
+2015 Tsinghua Academy Talent Training Program Scholarship
+2015 Summer Practice Gold Medal of Tsinghua University
+2014 The second prize of China Mathematics Olympiad (CMO)
+2012-2013 The first prize of National Mathematical Olympiad in Senior (Win the prize twice)
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Practical Experience
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2022 Deloitte Global Delivery Center Business Analyst (Consumer Big Data Analytics)
+2021 Special Project Award and Best Insight Award of "Smart C-End" Scientific Innovation Training Camp 2020-2023 Monitor of Class 2 of Economics, Grade 2020, Chongqing University
+2020 Center of Mass Education (Teaching Math Competition)
+2017 Vice President of Student Branch of the Red Cross of Tsinghua University
+2016 Founder of Tsinghua University Southwest Associated University Spiritual Research Association
