@@ -17,8 +17,11 @@ specialized in Theory of Industrial Organisation, Game Theory and Information Ec
 Working Papers
 ======
 1.[Price Discrimination with Estimation Errors](https://www.dropbox.com/scl/fi/ns7cwms034mmjhbqd2yrn/1.pdf?rlkey=iyczof10p0ku5ygm9g956pqix&st=rt6wo2p5&dl=0); [Slides](https://www.dropbox.com/scl/fi/nnhwaswib2enfe6q9a24n/Slides_CMGTA2023_Huang-Jingmin.pdf?rlkey=tcwbw4wu03hw33hnvjpb5ex0c&st=mcfhnklh&dl=0);
+
 2.[Selling Training Data](https://www.dropbox.com/scl/fi/hxoea41qx5ogh7xziesbv/Selling_Training_Data.pdf?rlkey=h6bz7tzezitq586nwkevk6r3o&st=uhgysmcw&dl=0); [Slides](https://www.dropbox.com/scl/fi/8elbq16qpvz9zo493t60q/Selling_Training_Data-1.pdf?rlkey=6klwa9gxm54tz1f0z0ojs89sz&st=wstyu2g0&dl=0);
+
 3.[Monitoring Allocation](https://www.dropbox.com/scl/fi/qmkfnymh53jf17rkj431t/Monitoring-Allocation-proposition-1.pdf?rlkey=lxo5x577tzz84awqdoxjwod1s&st=bxbhgsce&dl=0); [Slides](https://www.dropbox.com/scl/fi/n8jcc06uindeux0sgrp88/Monitoring_Allocation__Slide_4.pdf?rlkey=byujyqhdi963v6nccy3xo208y&st=sfj239u0&dl=0);
+
 4.[Enforceability v.s. Flexibility: Incomplete Contract with Litigation Cost](https://www.dropbox.com/scl/fi/1wtkjtw5dsi8zjnjtrfwp/Smart_Contract_v_2-2.pdf?rlkey=gw2xu4pb9iglyynvmfhdhwp45&st=urzaccg7&dl=0); [Slides](https://www.dropbox.com/scl/fi/c5ripd57cz260i80nm2sg/Enforceability_versus_Flexibility-2.pdf?rlkey=pa35bjn4llgzr9lpoae3e29mx&st=122oiddl&dl=0);
 
 Education
