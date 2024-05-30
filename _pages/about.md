@@ -29,23 +29,23 @@ Education
 ------
 2023-     Econimics, School of Economics, Renmin University of China, Beijing, China
 
-          Advisor: Sanxi Li
+Advisor: Sanxi Li
           
 2020-2023 Applied Economics, School of Economics and Business Administration, Chongqing University, Chongqin, China
 
-          Advisor: Rong Zhang; Description: No.1 academic performance kept for 3 years; National Scholarship
+Advisor: Rong Zhang; Description: No.1 academic performance kept for 3 years; National Scholarship
           
 2019-2021 Finance, Adult Self-taught, Southwestern University of Finance and Economics, Sichuan, China
 
-          Description: Finished 13 course examinations including Management and Accounting; Bachelor's degree in economics
+Description: Finished 13 course examinations including Management and Accounting; Bachelor's degree in economics
           
 2014-2018 Mathematics, Department of Mathematical Science, Tsinghua University, Beijing, China
 
-          Description: Tsinghua Academy Talent Training Program Scholarship; Excellent Lecturer at Learning Development Center
+Description: Tsinghua Academy Talent Training Program Scholarship; Excellent Lecturer at Learning Development Center
           
 2011-2014 Mian Yang High School, Sichuan, China
 
-          Description: No.1 in Sichuan (National Mathematical Olympiad in Senior); Silver medalist (CMO)
+Description: No.1 in Sichuan (National Mathematical Olympiad in Senior); Silver medalist (CMO)
 
 Honors and Awards
 ------
