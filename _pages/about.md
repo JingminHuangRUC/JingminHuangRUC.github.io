@@ -12,6 +12,7 @@ redirect_from:
 Research Interests
 ======
 Microeconomic Theory and Applications
+
 specialized in Theory of Industrial Organisation, Game Theory and Information Economics, Mechanism/Information Design
 
 Working Papers
@@ -27,44 +28,77 @@ Working Papers
 Education
 ------
 2023-     Econimics, School of Economics, Renmin University of China, Beijing, China
+
           Advisor: Sanxi Li
+          
 2020-2023 Applied Economics, School of Economics and Business Administration, Chongqing University, Chongqin, China
+
           Advisor: Rong Zhang; Description: No.1 academic performance kept for 3 years; National Scholarship
+          
 2019-2021 Finance, Adult Self-taught, Southwestern University of Finance and Economics, Sichuan, China
+
           Description: Finished 13 course examinations including Management and Accounting; Bachelor's degree in economics
+          
 2014-2018 Mathematics, Department of Mathematical Science, Tsinghua University, Beijing, China
+
           Description: Tsinghua Academy Talent Training Program Scholarship; Excellent Lecturer at Learning Development Center
+          
 2011-2014 Mian Yang High School, Sichuan, China
+
           Description: No.1 in Sichuan (National Mathematical Olympiad in Senior); Silver medalist (CMO)
 
 Honors and Awards
 ------
 2023 CMGTA'2023 Outstanding Youth Paper Award (Acedemic Conference)
+
 2022 The National third prize of National English Competition for College Students (NECCS) Class A
+
 2022 Outstanding graduate of Chongqing University
+
 2022 Advanced Individual of Innovation Ability Improvement of Chongqing Colleges and Universities
+
 2021 "Advanced Individual of Scientific and Technological Academic Innovation" of Chongqing University
+
 2021 National Scholarship
+
 2020-2022 Class A scholarship of Chongqing University
+
 2021 Outstanding Cadre of the Communist Youth League of Chongqing University
+
 2021 First prize of FLTR-Guocai Cup National English Speaking Contest of Chongqing University
+
 2021 Third prize of FLTR-Guocai Cup National English Reading Contest of Chongqing University
+
 2021 Outstanding individual award in the preliminary round of "Huawei Cup" Financial Elite Competition in Sichuan/Chongqing 
+
 2021 The National second prize of "Huawei Cup" National Postgraduate Mathematical Modeling Competition
+
 2020 The National second prize of "Huawei Cup" National Postgraduate Mathematical Modeling Competition
+
 2020 First prize of the 2nd Information Literacy Competition of Chongqing University
+
 2020 First prize of the first Chengdu-Chongqing University Information Literacy League
+
 2017 Advanced individual of Capital University Red Cross system
+
 2015 Excellent volunteer and lecturer of Learning Development Center of Tsinghua University
+
 2015 Tsinghua Academy Talent Training Program Scholarship
+
 2015 Summer Practice Gold Medal of Tsinghua University
+
 2014 The second prize of China Mathematics Olympiad (CMO)
+
 2012-2013 The first prize of National Mathematical Olympiad in Senior (Win the prize twice)
 
 Practical Experience
 ------
 2022 Deloitte Global Delivery Center Business Analyst (Consumer Big Data Analytics)
+
 2021 Special Project Award and Best Insight Award of "Smart C-End" Scientific Innovation Training Camp 2020-2023 Monitor of Class 2 of Economics, Grade 2020, Chongqing University
+
 2020 Center of Mass Education (Teaching Math Competition)
+
 2017 Vice President of Student Branch of the Red Cross of Tsinghua University
+
 2016 Founder of Tsinghua University Southwest Associated University Spiritual Research Association
